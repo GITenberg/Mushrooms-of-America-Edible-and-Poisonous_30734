@@ -1,0 +1,29 @@
+_repo: Mushrooms-of-America-Edible-and-Poisonous_30734
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Palmer, Julius A. (Julius Auboineau)
+    alias: Palmer, Julius Auboineau
+    birthdate: 1840
+    deathdate: 1899
+    gutenberg_agent_id: '34782'
+    url: http://www.gutenberg.org/2009/agents/34782
+description: ''
+gutenberg_issued: '2009-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30734'
+  lccn: '22024073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mushrooms'
+- !lcc 'QK'
+- !lcsh 'Cooking (Mushrooms)'
+title: Mushrooms of America, Edible and Poisonous
+url: http://www.gutenberg.org/ebooks/30734
